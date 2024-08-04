@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/grid-lights/static/css/main.620074b3.css",
+    "main.js": "/grid-lights/static/js/main.900321eb.js",
+    "index.html": "/grid-lights/index.html",
+    "main.620074b3.css.map": "/grid-lights/static/css/main.620074b3.css.map",
+    "main.900321eb.js.map": "/grid-lights/static/js/main.900321eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.620074b3.css",
+    "static/js/main.900321eb.js"
+  ]
+}
