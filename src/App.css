@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.grid_div{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  width: fit-content;
+  border: 1px solid black;
+  padding: 20px;
+  margin: auto;
+}
+
+.cell{
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.cell-selected{
+  background-color: green;
+}
+
